@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CustomStringUtils">
+    <output-path>$PROJECT_DIR$/out/artifacts/CustomStringUtils</output-path>
+    <root id="archive" name="CustomStringUtils.jar">
+      <element id="module-output" name="learn-maven" />
+      <element id="archive" name="CustomStringUtils.jar" />
+    </root>
+  </artifact>
+</component>
